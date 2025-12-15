@@ -1,0 +1,4 @@
+pyvo
+ipywidgets
+bs4
+tqdm

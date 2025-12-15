@@ -1,0 +1,6 @@
+--extra-index-url https://ftp.eso.org/pub/dfs/pipelines/repositories/stable/src
+edps
+edpsgui
+edpsplot
+adari_core
+PyMuPDF
